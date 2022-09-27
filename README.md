@@ -1,3 +1,5 @@
+ALL CREDIT TO wodx
+
 <h1 align="center">Discord Token Grabber</h1>
 <p align="center">A Discord token grabber written in Python 3.</p>
 
@@ -27,5 +29,3 @@ This version of the grabber only supports **Windows**.
     - [Discord](https://discord.gg/BYjPFTs)
     - [PayPal.me](https://www.paypal.com/paypalme2/wodx)
 
-# Donate
-You can donate to my PayPal at https://www.paypal.com/paypalme2/wodx <3
